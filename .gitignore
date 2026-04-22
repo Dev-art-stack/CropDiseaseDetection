@@ -1,0 +1,49 @@
+# === Root/General ===
+.DS_Store
+Thumbs.db
+*.log
+
+# === Backend (Python/Flask/PyTorch) ===
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+.ipynb_checkpoints/
+# Ignore large model weights to stay under GitHub limits
+*.pth
+*.pt
+# Ignore generated Grad-CAM heatmaps
+static/heatmaps/*.png
+
+# === Frontend (Android Studio/Gradle) ===
+.gradle/
+/build/
+/app/build/
+*.iml
+.idea/
+local.properties
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aar
+*.keystore
+!debug.keystore
+
+# === LaTeX (MiKTeX/Overleaf) ===
+*.aux
+*.fdb_latexmk
+*.fls
+*.gz
+*.pdf
+*.toc
+*.lof
+*.lot
+*.out
+*.log
+*.blg
+*.bbl

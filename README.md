@@ -1,5 +1,3 @@
-markdown_content = """# Reliable Crop Disease Detection with XAI and Uncertainty Reporting
-
 A comprehensive full-stack solution for agricultural disease diagnosis, featuring **Explainable AI (Grad-CAM)** and **Bayesian Uncertainty Quantification (MC Dropout)**. This project bridges the gap between high-performance deep learning and user-centric mobile deployment.
 
 ## 🚀 Key Features

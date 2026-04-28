@@ -22,3 +22,6 @@ A comprehensive full-stack solution for agricultural disease diagnosis, featurin
 │   ├── app/src/main/res/   # UI Layouts (XML) and assets
 │   └── ...
 └── README.md               # Project documentation
+```
+## Demo
+https://drive.google.com/file/d/1Pi2PTSuDmFIJfB0exbV7kpFNBmweuf3S/view?usp=drive_link
